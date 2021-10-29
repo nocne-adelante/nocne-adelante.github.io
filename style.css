@@ -15,9 +15,9 @@ header{
 
 header h4{
     position: absolute;
-    left: 1rem;
-    bottom: 1rem;
-    font-size: 1.6rem;
+    left: 50%;
+    bottom: 40%;
+    font-size: 2rem;
 }
 
 /* splash screen */
@@ -48,8 +48,8 @@ header h4{
     opacity: 0;
 }
 
-.logo.active{
-    bottom: 0;
-    opacity: 1;
+.logo.fade{
+    bottom: 150px;
+    opacity: 0;
     transition: ease-in-out 0.25s;
 }
