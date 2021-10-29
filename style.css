@@ -15,7 +15,7 @@ header{
 
 header h4{
     position: absolute;
-    left: 5%;
+    left: 1rem;
     bottom: 1rem;
     font-size: 1.6rem;
 }
@@ -51,11 +51,5 @@ header h4{
 .logo.active{
     bottom: 0;
     opacity: 1;
-    transition: ease-in-out 0.5s;
-}
-
-.logo.fade{
-    bottom: 150px;
-    opacity: 0;
-    transition: ease-in-out 0.5s;
+    transition: ease-in-out 0.25s;
 }
