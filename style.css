@@ -15,9 +15,9 @@ header{
 
 header h4{
     position: absolute;
-    left: 50%;
-    bottom: 40%;
-    font-size: 2rem;
+    left: 1rem;
+    bottom: 1rem;
+    font-size: 1.6rem;
 }
 
 /* splash screen */
