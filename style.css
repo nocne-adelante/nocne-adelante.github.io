@@ -30,7 +30,7 @@ header h4{
     width: 100%;
     height: 100vh;
     background-color: #161616;
-    transition: 1s;
+    transition: 0.5s;
 }
 
 .logo-header{
